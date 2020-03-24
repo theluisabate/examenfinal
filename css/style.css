@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans&display=swap');
+
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	color: #777;
+}
+
+.titulo{
+	font-family: 'Lobster', cursive;
+}
+
+.title{
+	font-family: 'Lobster', cursive;
+}
+header{
+	position: absolute;
+	background-color: #ff6796;
+	width: 100%;
+	top:0;
+}
+
+#s1{
+	margin: 57px 0 0;
+	background-color: #FF6796
+	
+}
+#s1 img{
+	  display: inline-block;
+  position: relative;
+  width: 500px;
+  height: 500px;
+  overflow: hidden;
+  border-radius: 50%;
+	border: solid #FFC4E6 15px;
+	text-align: center;
+	align-self: center;
+	margin: 50px 0px 50px 100px;
+	
+}
+
+#s1 h1{
+	font-family: 'lobster', cursive; 
+	color: #fff;
+	font-size: 60px;
+	margin: 200px 30px 30px 0px;
+}
+
+#s1 p{
+	font-family: 'opn-sans', sans-serif;
+	color: #fff;
+}
+#s1 a{
+	color: #fff;
+	background-color: #01BEFE;
+	border-radius: 30px;
+}
+
+#services .services img{
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	border: 4px solid #FF6796;
+}
+
+#features{
+	background-color: #ff6796;
+	align-content: center;
+	
+}
+
+#features far{
+	background-color: #ff6796;
+	text-align: center;
+	
+}
+#features .titles{
+	color: #fff;
+	font-family: 'lobster', cursive; 
+	text-align: center;
+}
+
+.icon-up{
+	margin-bottom: 40px;
+	color: #fff;
+}	
+	
+.texto{
+	margin: 40px;
+}
+
+
+#products h5{
+	font-family: 'Lobster', cursive;
+}
+
+#team{
+	background-color: #01BEFE;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#team img{
+	border: 5px solid #FF6796;
+}
+
+#team h5{
+	font-family: 'lobster', cursive; 
+}
+
+#redes{
+	background-color: #231D1D;
+	color: #fff;
+}
+
+#footer{
+	background-color: #231D1D;
+	color: #fff;
+}
